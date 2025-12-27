@@ -3,7 +3,7 @@ backend:
   repo: alberto56/test-2018-09-27-17-03-29
   branch: master
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3f27c6e2b059bec66ad
+  auth_endpoint: /auth/github/repo/694f515418f56cc35826652b
 media_folder: static/uploads
 public_folder: /uploads
 collections:
